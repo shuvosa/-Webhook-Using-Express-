@@ -1,4 +1,4 @@
-# Webhook Receiver with Express and Hookdeck
+# Webhook Receiver with Express 
 
 This project is a simple Node.js application that receives webhook events using [Express](https://expressjs.com/) and [body-parser](https://www.npmjs.com/package/body-parser). It is designed to work with [Hookdeck](https://hookdeck.com/) or any service that sends webhooks.
 
